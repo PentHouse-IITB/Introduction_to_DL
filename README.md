@@ -13,6 +13,7 @@ We won't be covering natural language processing and some recent advancements su
 Some of the resources for getting used to the concepts behind deep learning and basic terminologies:
 1. [Medium article series](https://medium.com/intro-to-artificial-intelligence/deep-learning-series-1-intro-to-deep-learning-abb1780ee20)
 2. [More about Perceptron Model](https://towardsdatascience.com/introducing-deep-learning-and-neural-networks-deep-learning-for-rookies-1-bd68f9cf5883)
+
 There a lot of other youtube playlists and courses which cover the deep learning basics and in some cases advanced stuff too. To name some:
 1. [Coursera Deep Learning Specialisation](https://www.coursera.org/specializations/deep-learning)
 2. [Udemy Machine Learning A-Z](https://www.udemy.com/course/machinelearning/)
